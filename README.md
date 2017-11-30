@@ -1,13 +1,18 @@
 
 # D360TesterKit
 
-The `D360TesterKit` is a small framework that can simulate the 360dialog campaings for testing or demonstration purposes. 
+The `D360TesterKit` is a small framework that can simulate the 360dialog campaings for integration testing. 
+
+![badge-languages] ![badge-pms]
+
+![](logo.png)
+
 
 ⚠️ ⚠️ Please note that this framework is not inteded for production use and it's sole purpose is to facilitate the 360dialog SDK integration. 
 
 In fact, if this framework is included in an app built for production, it will crash the app to assert that the framework is not shipped by mistake in production.
 
-![](logo.png)
+
 
 
 ## Installation
@@ -80,6 +85,9 @@ Only [Carthage](https://github.com/Carthage/Carthage) is supported.
 	    
 	DTTester.send(campaign)
 	```
+	
+[badge-languages]: https://img.shields.io/badge/languages-Swift%20%7C%20ObjC-orange.svg
+[badge-pms]: https://img.shields.io/badge/supports-Carthage-green.svg
 
 
 
