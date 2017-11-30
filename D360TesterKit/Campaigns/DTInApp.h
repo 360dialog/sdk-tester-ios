@@ -13,6 +13,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, strong) NSURL *url;
 
+- (instancetype)initWithUrl:(NSURL *)url;
+
+
 +(instancetype) requestPermissionInApp;
 
 @end

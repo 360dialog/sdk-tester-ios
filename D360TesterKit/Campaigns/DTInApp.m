@@ -12,6 +12,15 @@
 
 @implementation DTInApp
 
+- (instancetype)initWithUrl:(NSURL *)url
+{
+    self = [self init];
+    if (self) {
+        self.url = url;
+    }
+
+    return self;
+}
 
 + (instancetype)requestPermissionInApp
 {
