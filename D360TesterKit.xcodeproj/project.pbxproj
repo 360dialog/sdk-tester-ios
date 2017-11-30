@@ -170,9 +170,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		8A9B7EB61FBD927D00DCC2B5 /* D360TesterKit */ = {
+		8A9B7EB61FBD927D00DCC2B5 /* D360TesterKit-iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8A9B7EBF1FBD927D00DCC2B5 /* Build configuration list for PBXNativeTarget "D360TesterKit" */;
+			buildConfigurationList = 8A9B7EBF1FBD927D00DCC2B5 /* Build configuration list for PBXNativeTarget "D360TesterKit-iOS" */;
 			buildPhases = (
 				8A9B7EB21FBD927D00DCC2B5 /* Sources */,
 				8A9B7EB31FBD927D00DCC2B5 /* Frameworks */,
@@ -183,7 +183,7 @@
 			);
 			dependencies = (
 			);
-			name = D360TesterKit;
+			name = "D360TesterKit-iOS";
 			productName = D360TesterKit;
 			productReference = 8A9B7EB71FBD927D00DCC2B5 /* D360TesterKit.framework */;
 			productType = "com.apple.product-type.framework";
@@ -215,7 +215,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8A9B7EB61FBD927D00DCC2B5 /* D360TesterKit */,
+				8A9B7EB61FBD927D00DCC2B5 /* D360TesterKit-iOS */,
 			);
 		};
 /* End PBXProject section */
@@ -378,7 +378,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.360dialog.D360TesterKit;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = D360TesterKit;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -399,7 +399,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.360dialog.D360TesterKit;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = D360TesterKit;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -417,7 +417,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8A9B7EBF1FBD927D00DCC2B5 /* Build configuration list for PBXNativeTarget "D360TesterKit" */ = {
+		8A9B7EBF1FBD927D00DCC2B5 /* Build configuration list for PBXNativeTarget "D360TesterKit-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8A9B7EC01FBD927D00DCC2B5 /* Debug */,

@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8A9B7EB61FBD927D00DCC2B5"
-               BuildableName = "D360TesterKit.framework"
-               BlueprintName = "D360TesterKit"
+               BuildableName = "D360TesterKit_iOS.framework"
+               BlueprintName = "D360TesterKit-iOS"
                ReferencedContainer = "container:D360TesterKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -48,8 +48,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8A9B7EB61FBD927D00DCC2B5"
-            BuildableName = "D360TesterKit.framework"
-            BlueprintName = "D360TesterKit"
+            BuildableName = "D360TesterKit_iOS.framework"
+            BlueprintName = "D360TesterKit-iOS"
             ReferencedContainer = "container:D360TesterKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,8 +66,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8A9B7EB61FBD927D00DCC2B5"
-            BuildableName = "D360TesterKit.framework"
-            BlueprintName = "D360TesterKit"
+            BuildableName = "D360TesterKit_iOS.framework"
+            BlueprintName = "D360TesterKit-iOS"
             ReferencedContainer = "container:D360TesterKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
