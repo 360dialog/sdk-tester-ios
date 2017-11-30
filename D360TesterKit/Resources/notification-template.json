@@ -1,0 +1,24 @@
+{
+  "aps": {
+    "alert": {
+      "title": "Hello 👋",
+      "body": "Tap on this message to open a URL"
+    },
+    "mutable-content": 1,
+    "sound": "default"
+  },
+  "d360": {
+    "notification": {
+      "foreground_notification_types": 7,
+      "rich_text": "Tap on this message to open a URL",
+      "attachment_url": "https://inapp-samples.s3.amazonaws.com/images/push-round@3x.png",
+      "inbox": false
+    },
+    "a": {
+      "n": "openURL",
+      "p": {
+        "u": "https://www.360dialog.com/"
+      }
+    }
+  }
+}

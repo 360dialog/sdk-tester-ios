@@ -1,0 +1,28 @@
+
+{
+  "aps": {
+    "content-available": 1
+  },
+  "d360": {
+    "a": {
+      "n": "inbox",
+      "p": {
+        "t": "Hello 👋",
+        "b": "Tap on this inbox message to open an InApp",
+        "att": {
+          "u": "https://inapp-samples.s3.amazonaws.com/images/push-round@3x.png",
+          "t": "image/jpeg"
+        },
+        "a": {
+          "n": "overlay",
+          "p": {
+            "t": "html",
+            "d": {
+              "u": "https://inapp-samples.s3-eu-west-1.amazonaws.com/inapp-pagination.html"
+            }
+          }
+        }
+      }
+    }
+  }
+}
