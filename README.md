@@ -52,7 +52,7 @@ let campaign = DTInbox(title: "Hi 👋", body: "Tap to open a URL")
 // You can customise the image url of the inbox attachment
 campaign.attachmentURL = URL(string: "https://inapp-samples.s3.amazonaws.com/images/push-round@3x.png")!
 	
-// The inbox will have a Deeplink as action to the Map app as action when tapped
+// The inbox will have a URL as action when tapped
 campaign.action = DTURLAction(url: URL(string:"https://www.360dialog.com/")!)
 
 DTTester.send(campaign)
