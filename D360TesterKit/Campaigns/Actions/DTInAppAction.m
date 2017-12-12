@@ -17,7 +17,7 @@
     self = [super init];
     if (self) {
         _preload = YES;
-        _url = [NSURL URLWithString:@"https://inapp-samples.s3-eu-west-1.amazonaws.com/inapp-pagination.html"];
+        _url = [NSURL URLWithString:@"https://inapp-samples.s3-eu-west-1.amazonaws.com/sample-inapp-pagination.html"];
     }
 
     return self;
